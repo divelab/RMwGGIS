@@ -12,6 +12,7 @@ Meng Liu, Haoran Liu, and Shuiwang Ji. "[Gradient-Guided Importance Sampling for
 Visualization of learned energy functions on 32-dimensional synthetic discrete datasets.
 </p>
 
+There is [an implementation from the community](https://github.com/J-zin/RMwGGIS) as well.
 
 ## Requirements
 We include key dependencies below.
