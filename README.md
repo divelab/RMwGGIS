@@ -29,7 +29,7 @@ To run the experiments on synthetic discrete data, please refer to the commands 
 @inproceedings{liu2022rmwggis,
   title={Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models},
   author={Liu, Meng and Liu, Haoran and Ji, Shuiwang},
-  booktitle={International Conference on Learning Representations (ICLR)},
+  booktitle={International Conference on Learning Representations},
   year={2023}
 }
 ```
