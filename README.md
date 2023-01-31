@@ -26,7 +26,7 @@ To run the experiments on synthetic discrete data, please refer to the commands 
 
 ## Reference
 ```
-@inproceedings{liu2022rmwggis,
+@inproceedings{liu2023rmwggis,
   title={Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models},
   author={Liu, Meng and Liu, Haoran and Ji, Shuiwang},
   booktitle={International Conference on Learning Representations},
