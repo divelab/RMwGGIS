@@ -2,7 +2,7 @@
 
 This is the official implementation of the **RMwGGIS** method proposed in the following paper.
 
-Meng Liu, Haoran Liu, and Shuiwang Ji. "[Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models](https://arxiv.org/abs/2210.05782)".
+Meng Liu, Haoran Liu, and Shuiwang Ji. "[Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models](https://openreview.net/forum?id=9DZKk85Z4zA)". [ICLR 2023]
 
 <p align="center">
 <img src="https://github.com/divelab/RMwGGIS/blob/main/assets/RMwGGIS.png" width="600" class="center" alt=""/>
@@ -26,10 +26,10 @@ To run the experiments on synthetic discrete data, please refer to the commands 
 
 ## Reference
 ```
-@article{liu2022rmwggis,
+@inproceedings{liu2022rmwggis,
   title={Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models},
   author={Liu, Meng and Liu, Haoran and Ji, Shuiwang},
-  journal={arXiv preprint arXiv:2210.05782},
-  year={2022}
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2023}
 }
 ```
